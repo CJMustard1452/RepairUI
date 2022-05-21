@@ -12,5 +12,5 @@ commands:
 
 permmisions:
   repair.defaultpermission:
-    default: true
+    default: false
 ...
