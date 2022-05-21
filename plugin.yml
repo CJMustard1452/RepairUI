@@ -1,0 +1,16 @@
+---
+name: RepairUI
+version: 0.0.1
+main: CJMustard1452\RepairUI\Main
+api: 3.28.0
+
+commands:
+  repair:
+    permission: repair.defaultpermission
+    aliases:
+      - fix
+
+permmisions:
+  repair.defaultpermission:
+    default: true
+...
