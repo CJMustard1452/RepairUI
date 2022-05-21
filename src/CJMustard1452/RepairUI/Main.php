@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace CJMustard1452\FixUI;
+namespace CJMustard1452\RepairUI;
 
 use pocketmine\command\Command;
 use pocketmine\command\CommandSender;
